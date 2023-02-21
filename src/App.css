@@ -1,0 +1,31 @@
+
+.infos{
+  display: inline-block;
+ 
+  margin: 1px;
+}
+.infos1{
+  list-style-type: none;
+}
+.infos5{
+  width:1000px ;
+  position: relative;
+  left: 190px;
+}
+.title{
+  text-align: center;
+  font-size: 54px;
+  font-family:y;
+}
+.name{
+  font-size:34px ;
+  color:rgb(42, 151, 165)
+}
+
+.App{
+  background-color: black;
+  color:aliceblue
+}
+.titre{
+font-family:Georgia, 'Times New Roman', Times, serif
+}
